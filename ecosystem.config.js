@@ -1,6 +1,6 @@
 module.exports = { 
     apps: [{
-      name    : "onvi",	
+      name    : "minamina",	
       script  : "npm",
       args    : "start"
     }]
