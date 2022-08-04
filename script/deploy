@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh ubuntu@3.34.45.32 <<EOF
+ssh ubuntu@54.180.153.203 <<EOF
     cd ~/minamina		
     git pull origin master
     curl -o-   https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh    | bash
